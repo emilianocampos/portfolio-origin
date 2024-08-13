@@ -1,0 +1,39 @@
+#service{
+
+    background-color: #1466c3!important;
+}
+.service-title{
+    color:#000000;
+}
+.sub-title {
+
+    color:#ffffff;
+}
+.sub-title h3{
+    color: white !important;
+}
+.sub-title span{
+    color: #000000 !important;
+}
+.sub-title p{
+    color: white !important ;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+.img{
+position: absolute;
+width: 130px;
+left: -64px;
+    top: -65px;
+}
+
+@media (max-width: 767px){
+
+    .img{
+        position: absolute;
+        width: 130px;
+        left: -54px;
+            top: -85px;
+        }
+
+}
